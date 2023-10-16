@@ -1,0 +1,16 @@
+body {
+    background: #90d6da;
+}
+
+p {
+    text-align: center;
+    font-size: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+em strong {
+    color: #c61111;
+}
