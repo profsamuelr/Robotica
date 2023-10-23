@@ -7,10 +7,15 @@ p {
     font-size: 50px;
 }
 
+
 h1 {
     text-align: center;
 }
 
 em strong {
     color: #c61111;
+}
+
+#banner {
+    width: 100%;
 }
